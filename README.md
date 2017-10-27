@@ -5,4 +5,4 @@ Analyzes text to determine the most frequently occuring charcters and sort them.
 `$ gcc frequency_analyzer.c`
 
 ## running
-./a.out <file1> [file2 [file3]...]
+`$ ./a.out <file1> [file2 [file3]...]`
